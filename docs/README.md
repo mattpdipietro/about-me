@@ -1,4 +1,4 @@
-# Matt DiPietro README
+# README
 I'm looking forward to working with and getting to know you! This document is not intended to replace or override the relationship and mutual understanding we will build as we work together. The following is a user guide for me and how I work. It captures what you can expect from working with me, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.
 
 ## Our Average Week
