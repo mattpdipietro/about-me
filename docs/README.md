@@ -5,6 +5,17 @@
 The following is a user guide for me and how I work. It captures what you can expect from working with me, how I like to work, my north star principles, and some of the nuance and quirks of my personality. **This document is not intended to replace or override the relationship and mutual understanding we will build as we work together--instead, its intent is to _accelerate the development of our working relationship._**
 {: .fs-6 .fw-300 }
 
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Assumptions
 
 1. **You’re good at your job.** You wouldn’t be here if you weren’t. If it feels like I’m questioning you, it’s because I’m either trying to gain context and insights, or playing devil's advocate.
