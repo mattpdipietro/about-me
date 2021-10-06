@@ -1,9 +1,9 @@
 # README
-The following is a user guide for me and how I work. It captures what you can expect from working with me, how I like to work, my north star principles, and some of the nuance and quirks of my personality. This document is not intended to replace or override the relationship and mutual understanding we will build as we work together--instead, its intent is to accelerate the development of our working relationship.
+The following is a user guide for me and how I work. It captures what you can expect from working with me, how I like to work, my north star principles, and some of the nuance and quirks of my personality. **This document is not intended to replace or override the relationship and mutual understanding we will build as we work together--instead, its intent is to _accelerate the development of our working relationship._**
 
 ## Assumptions
 
-1. **You’re very good at your job.** You wouldn’t be here if you weren’t. If it feels like I’m questioning you it’s because I’m either trying to gain context and insights, or playing devil's advocate.
+1. **You’re good at your job.** You wouldn’t be here if you weren’t. If it feels like I’m questioning you, it’s because I’m either trying to gain context and insights, or playing devil's advocate.
 
 1. **I’m not good at your job.** More often than not, you know better than I do. I’ll ask questions and provide context, but I won’t override you unless it's absolutely necessary.
 
@@ -11,7 +11,7 @@ The following is a user guide for me and how I work. It captures what you can ex
 
 1. **You feel safe debating with me.** I find that ideas improve by being examined from all angles. To do so effectively, we must be able to have a safe debate.
 
-1. **I might tell you what to do, but I'm not going to tell you how to do it[^1].** 
+1. **I might tell you what to do, but I'm not going to tell you how to do it[^1].** I will not micromanage you, but I do like to get into the details of what you are doing.
 
 ## Communication
 Experience has shown me that the vast majority of issues encountered at work are the result of poor or infrequent communication. It is of extreme importance to me that we communicate well and often.
@@ -40,7 +40,7 @@ The best 1-on-1s I’ve had have focused beyond the moment: career development, 
 
 I believe accountability to your team is more meaningful than accountability to me. It’s more important that you create transparency to those affected by your results.
 
-**Feedback should be 360&deg;** While I'm confident in my own skills and abilities, I fully understand that I as many or more opportunities to grow and improve than anyone else. I am my harshest critic--there's no feedback you can provide me that I will take offense to or that will not be fully accounted for me in my own personal development. Please, lay it on me. 
+**Feedback should be 360&deg;** While I'm confident in my own skills and abilities, I fully understand that I have as many or more opportunities to grow and improve as anyone else. I am my harshest critic--there's no feedback you can provide me that will offend me or that will not be accounted for in my own personal development. Please, lay it on me. 
 
 Three dimensions are required for people to continue to give you feedback:
 - Safety - Unlikelihood of being punished for giving feedback. Should be high
@@ -70,15 +70,26 @@ Let me know if I don't do well on any of these three dimensions.
 
 **My default coping mechanism is sarcasm and humor.** I'd much rather laugh in the face of impending doom than cry about it. 
 
-**I am an introvert** and that means that prolonged exposure to humans is exhausting for me. More specifically I am a textbook [INTJ](https://www.16personalities.com/intjs-at-work). 
+**I am an introvert** and that means that prolonged exposure to humans is exhausting for me. More specifically I am a textbook INTJ [^2]. 
 
 **When I ask you to do something that feels poorly defined** just ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
 
 **Ask assertive versus tell assertive.** When you need to ask me to do something, just ask me. I respond incredibly well to ask assertiveness (“Matt, can you help with X?”). I respond poorly to being told what to do (“Matt, do X.”). "Because I said so" is not a valid explanation.
 
-**I can be hyperbolic** but it’s almost always because I am excited about the topic. I also swear ~~occasionally~~regularly. Sorry.
+**I can be hyperbolic** but it’s almost always because I am excited about the topic. I also swear ~~occasionally~~ regularly. Sorry. 
 
+## Personal life
 
+I have a life outside of work, and I expect that you do as well. My personal life will always take precedence over work, and I believe yours should also. While I don't expect you to share all of the details of what you have going on, I hope to learn more about who you are outside of work to better understand who you are at work.
+
+**Nothing is more important than my family** I'm married with one daughter. My wife's name is Maggie and my daughter's name is Luna. The best parts of my day are the little moments I get to walk upstairs and spend with them. They are the reason I do what I do.
+
+**I am a cat-person** I don't just prefer cats over dogs--I'm very much like a cat. I have two exotic short hairs (smush face) named R2D2 and Fizzgig. I long to see a large cat in the wild. My patronus is a snow leopard. Dogs are man's best friends because cats know better.
+
+**I like all the nerdy stuff** Everyone's a nerd about something. I love all the typical things (comic books, cartoons, video games, sports, tv, movies, etc.), but my biggest nerd passion is D&D and other TTRPGs--I listen to way too many real-play podcasts. I'm enthralled by the collaborative creativity of community story telling. 
+
+## Disclaimer
 **This document is a [living breathing thing](https://github.com/MatthewDiPietroTR/MatthewDiPietroTR/edit/main/docs/README.md)** and likely incomplete. It's new, and I plan to update it frequently. I'd love your feedback.
 
 [^1]: There are two exceptions to this rule. 1) I've been told I have to tell you how to do it and I've lost that argument or 2) the team has not taken responsibility for determining a course of action in a timely, efficient manner. In case of the second scenario, feel free to propose an alternative approach provided the outcomes are the same. 
+[^2]: Though not an exact science, I think Meyers-Briggs and other similar personality tests are a good way to gain insights into the baseline behaviors and personalities of individuals. In my case, the [INTJ](https://www.16personalities.com/intj-personality) profile provided at 16personalities.com reads like a high-level biography as humorously confirmed by both my mother and my wife.
