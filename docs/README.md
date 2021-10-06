@@ -1,7 +1,10 @@
 # README
 {: .no_toc .fs-9 }
 
-The following is a user guide for me and how I work. It captures what you can expect from working with me, how I like to work, my north star principles, and some of the nuance and quirks of my personality. **This document is not intended to replace or override the relationship and mutual understanding we will build as we work together--instead, its intent is to _accelerate the development of our working relationship._**
+The following is a user guide for me and how I work. It captures what you can expect from working with me, how I like to work, my north star principles, and some of the nuance and quirks of my personality. 
+{: .fs-6 .fw-300 }
+
+**This document is not intended to replace or override the relationship and mutual understanding we will build as we work together--instead, its intent is to _accelerate the development of our working relationship._**
 {: .fs-6 .fw-300 }
 
 <details open markdown="block">
