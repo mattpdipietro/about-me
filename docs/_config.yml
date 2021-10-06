@@ -1,7 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 
 title: Matt DiPietro
-description: a brief guide to me as a co-worker, manager, and employee
+description: "a brief guide to me as a co-worker, manager, and employee"
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/profile-picture.png"
@@ -13,7 +13,7 @@ logo: "/assets/profile-picture.png"
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "&copy; 2021 Matthew DiPietro.
+footer_content: "&copy; 2021 Matthew DiPietro."
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: false # show or hide edit this page link
