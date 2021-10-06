@@ -6,6 +6,18 @@ description: a brief guide to me as a co-worker, manager, and employee
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/profile-picture.png"
 
+# Footer content
+# appears at the bottom of every page's main content
+
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2021 Matthew DiPietro.
+
+# Footer last edited timestamp
+last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: false # show or hide edit this page link
