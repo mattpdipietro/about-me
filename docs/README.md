@@ -1,75 +1,84 @@
 # README
-I'm looking forward to working with and getting to know you! This document is not intended to replace or override the relationship and mutual understanding we will build as we work together. The following is a user guide for me and how I work. It captures what you can expect from working with me, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.
+The following is a user guide for me and how I work. It captures what you can expect from working with me, how I like to work, my north star principles, and some of the nuance and quirks of my personality. This document is not intended to replace or override the relationship and mutual understanding we will build as we work together--instead, its intent is to accelerate the development of our working relationship.
 
-## Our Average Week
-We’ll have a 1:1 every week for at least 30 minutes except during HIGH ALERT (See below). This meeting discusses topics of substance, not updates. I’ve created a private Slack channel for the two us of to capture future topics for our 1:1s as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, we dump it in that channel. 
+## Assumptions
 
-We’ll have a staff meeting with your peers every week for 60 minutes no matter what. Unlike 1:1s, we have a shared document which captures agenda topics for the entire team. Similar to 1:1s, we aren’t discussing status at this meeting, but issues of substance that affect the whole team.
+1. **You’re very good at your job.** You wouldn’t be here if you weren’t. If it feels like I’m questioning you it’s because I’m either trying to gain context and insights, or playing devil's advocate.
 
-You can Slack me 24 hours a day. I like responding quickly.
+1. **I’m not good at your job.** More often than not, you know better than I do. I’ll ask questions and provide context, but I won’t override you unless it's absolutely necessary.
 
-If I am traveling, I will give you notice of said travel in advance. All our meetings still occur albeit with time zone considerations.
+1. **You’ll let me know if you can’t do your job.** One of my main responsibilities is ensuring that you’re set up for success. Occasionally things slip through the cracks and I won’t know I’m letting you down.
 
-I work a bit on the weekends. This is my choice. **I do not expect that you are going to work on the weekend.** I might Slack you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
+1. **You feel safe debating with me.** I find that ideas improve by being examined from all angles. To do so effectively, we must be able to have a safe debate.
 
-I take vacations. You should, too. Disconnected from work is when I do some of my best work. 
+1. **I might tell you what to do, but I'm not going to tell you how to do it[^1].** 
+
+## Communication
+Experience has shown me that the vast majority of issues encountered at work are the result of poor or infrequent communication. It is of extreme importance to me that we communicate well and often.
+
+I am a product of the internet. Teams messages are always my preferred means of communication. If it's particularly urgent or complex, a quick call might work best. That said, I am an introvert, so I might not pick up if I'm not expecting the call--just give me a heads up first.
+
+**MY DEFAULT IS TRANSPARENT** You can ask me anything. The vast majority of the time I’ll answer. Very rarely, I won’t be able to. But I’m committed to never lying to you.
+
+## Availability
+
+Very few things are more important than talking to you if you want to talk to me. If you need to talk, let’s talk.
+
+**DON'T WAIT FOR THE MEETING** Heard a rumour? Need clarification on something? Blocked? Bring it to me as quickly as possible, we don’t need to wait for our next scheduled 1-on-1. As helpful as it would be, I'm not a mind reader. The reality of virtual working is it's very easy for things that are not in front of me to fly below the radar.
+
+Feel free to put something in my calendar, don’t feel like you need to ask first (though please provide the context for meeting).
+
+Is my calendar full? Send me a message and I’ll very likely be able to move something around.
+
+I occasionally work a bit on the weekends. This is my choice. **I do not expect that you are going to work on the weekend.** I might send you questions or ideas, but unless I indicate otherwise due to extreme urgency, it can always wait until work begins for you on Monday.
+
+## Feedback ##
+
+If you are my direct report, we will have a regularly scheduled 1-on-1 meeting at least monthly. This meeting is mostly *your* time and *your* agenda. Length, frequency, format and content is up to you. We’ll start with a half hour monthly and then adjust from there.
+
+The best 1-on-1s I’ve had have focused beyond the moment: career development, team strategy and opportunity, the bigger picture, etc. Feel free to come with a topic you’d like to discuss. I just ask that you spend a few moments ahead of time preparing so that we can use this time effectively. 
+
+I believe accountability to your team is more meaningful than accountability to me. It’s more important that you create transparency to those affected by your results.
+
+**Feedback should be 360&deg;** While I'm confident in my own skills and abilities, I fully understand that I as many or more opportunities to grow and improve than anyone else. I am my harshest critic--there's no feedback you can provide me that I will take offense to or that will not be fully accounted for me in my own personal development. Please, lay it on me. 
+
+Three dimensions are required for people to continue to give you feedback:
+- Safety - Unlikelihood of being punished for giving feedback. Should be high
+- Effort - The amount of work in order to give feedback. Should be low
+- Benefit - How likely is it that giving you feedback will materially impact your behavior? Should be high
+
+Let me know if I don't do well on any of these three dimensions.
 
 ## North Star Principles
-**Humans first.** I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans.
+**Team first. Always.** Teams either succeed together, or they fail together. MVPs don't come from losing teams. 
 
-**Leadership comes from everywhere.** My wife likes to remind me that I hated meetings for the first ten years of my professional career. She’s right. I’ve wasted a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to effectively lead.
+**Failure is not an option, it's an inevitability.** I expect everyone to fail at some point. Though striving for perfection in a noble endeavor, achieving it is often impossible. What I don't find acceptable is making easily avoidable mistakes. Falling short despite strong effort and carelessness are not the same thing.
 
-**I see things as systems.** I reduce all complex things (including humans) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
+**I heavily bias towards action.** Long meetings where we are endlessly debating potential directions are often valuable, but I cannot tolerate having the same meeting and the same discussion more than once. At some point, we just need to start doing something or we'll never do anything.
 
-**It is important to me that humans are treated fairly.** I believe that most humans are trying to to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity.
+**Few things are more important than continous improvement.** We should all strive to be better today than we were yesterday.
 
-**I heavily bias towards action.** Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
-
-**I believe in the compounding awesomeness of continually fixing small things.** I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
+**Quality is everyone's responsibility.** Nothing to add. This one speaks for itself. 
 
 **I start with an assumption of positive intent for all involved.** This has worked out well for me over my career. 
 
-**I need you to know that sometimes we are in HIGH ALERT and things will get strange.** There is an exception to many of my practices and principles and that is when we are in a HIGH ALERT situation. HIGH ALERT conditions usually involve existential threats to our company. During this time, my usual people, process, and product protocols are secondary to countering this threat. If it is not obvious, I will alert you that I am in this state along with my best guess of when we'll be done. If I am constantly in this state, something is fundamentally wrong. 
+**I view everyone as a peer.** To be honest, I'm really not comfortable being a position of authority. I do not care to be pandered to. Never feel the need to "sir" me--I've not been knighted...yet.
 
-## Feedback Protocol
-I firmly believe that feedback is at the core of building trust and respect in a team.
+## Personality quirks
 
-At Thomson Reuters, there is a formal feedback cycle which occurs once a year. The first time we go through this cycle, we’ll draft a proposed set of [OKRs](https://en.wikipedia.org/wiki/OKR) for you for the next review period. These are not product or technology OKRs; these are professional growth OKRs for you. I’ll send you these draft OKRs as well as upward feedback from your team before we meet so you can review beforehand.
+**I use metaphors. A lot.** It's better than puns. I try to keep the sports metaphors to a minimum, but they work so well for discussing team dynamics (and unfortunately, not everyone plays Dungeons and Dragons). If you do play D&D, I would love to guest as an NPC in your game. I'm a forever DM, and it's garbage.
 
-In our face-to-face meeting, we’ll discuss and agree on your OKRs for the next period, and I’ll ask for feedback on my performance. At our following review, the process differs thusly: I’ll review you against our prior OKRs, and I’ll introduce new OKRs (if necessary). Rinse and repeat.
+**My default coping mechanism is sarcasm and humor.** I'd much rather laugh in the face of impending doom than cry about it. 
 
-Review periods are not the only time we’ll exchange feedback. This will be a recurring topic in our 1:1s. I am going to ask you for feedback in 1:1s regularly. I am never going to stop doing this no matter how many times you say you have no feedback for me.
+**I am an introvert** and that means that prolonged exposure to humans is exhausting for me. More specifically I am a textbook [INTJ](https://www.16personalities.com/intjs-at-work). 
 
-Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.
+**When I ask you to do something that feels poorly defined** just ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
 
-## Meeting Protocol
-I go to a lot of meetings. I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
+**Ask assertive versus tell assertive.** When you need to ask me to do something, just ask me. I respond incredibly well to ask assertiveness (“Matt, can you help with X?”). I respond poorly to being told what to do (“Matt, do X.”). "Because I said so" is not a valid explanation.
 
-My definition of a meeting includes an agenda and/or intended purpose, the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If I am attending a meeting, I’d prefer starting on time. If I am running a meeting, I will start that meeting on time. If it’s not clear to me why I am in a meeting, I will ask for clarification on my attendance. 
+**I can be hyperbolic** but it’s almost always because I am excited about the topic. I also swear ~~occasionally~~regularly. Sorry.
 
-If you send me a presentation deck a reasonable amount of time before a meeting, I will read it before the meeting and will have my questions at the ready. If I haven’t read the deck, I will tell you.
 
-If a meeting completes its intended purpose before it’s scheduled to end, let’s give the time back to everyone. If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
+**This document is a [living breathing thing](https://github.com/MatthewDiPietroTR/MatthewDiPietroTR/edit/main/docs/README.md)** and likely incomplete. It's new, and I plan to update it frequently. I'd love your feedback.
 
-## Nuance and Errata
-
-**I am an introvert** and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Do not confuse my quiet with lack of engagement.
-
-**When the 1:1 feels over, and there is remaining time** I always have a couple of meaty topics to discuss. This is brainstorming, and the issues are usually front-of-mind hard topics that I am processing. It might feel like we’re shooting the shit, but we’re doing real work.
-
-**When I ask you to do something that feels poorly defined** you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
-
-**Ask assertive versus tell assertive.** When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Rands, can you help with X?”). I respond poorly to being told what to do (“Rands, do X.”) I have been this way since I was a kid and I probably need therapy.
-
-**I can be hyperbolic** but it’s almost always because I am excited about the topic. I also swear sometimes. Sorry.
-
-**I love to start new things** but I often lose interest when I can mentally see how the thing is going to finish which might be weeks or month before the thing is actually done. Sorry. I’m getting better at this.
-
-**If I am on my phone during a meeting for more than 30 seconds, say something.** My attention wanders.
-
-**Humans stating opinions as facts** are a trigger for me.
-
-**Humans who gossip** are a trigger for me.
-
-**This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)** and likely incomplete. I  update it frequently and would appreciate your feedback.
-
+[^1]: There are two exceptions to this rule. 1) I've been told I have to tell you how to do it and I've lost that argument or 2) the team has not taken responsibility for determining a course of action in a timely, efficient manner. In case of the second scenario, feel free to propose an alternative approach provided the outcomes are the same. 
