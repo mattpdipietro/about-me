@@ -103,7 +103,8 @@ I have a life outside of work, and I expect that you do as well. My personal lif
 
 **I like all the nerdy stuff** Everyone's a nerd about something. I love all the typical things (comic books, cartoons, video games, sports, tv, movies, etc.), but my biggest nerd passion is D&D and other TTRPGs--I listen to way too many real-play podcasts. I'm enthralled by the collaborative creativity of community story telling. 
 
-## Disclaimer
+### Disclaimer
+{: .no_toc}
 **This document is a [living breathing thing](https://github.com/MatthewDiPietroTR/MatthewDiPietroTR/edit/main/docs/README.md)** and likely incomplete. It's new, and I plan to update it frequently. I'd love your feedback.
 
 [^1]: There are two exceptions to this rule. 1) I've been told I have to tell you how to do it and I've lost that argument or 2) the team has not taken responsibility for determining a course of action in a timely, efficient manner. In case of the second scenario, feel free to propose an alternative approach provided the outcomes are the same. 
