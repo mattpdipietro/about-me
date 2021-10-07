@@ -77,7 +77,7 @@ Let me know if I don't do well on any of these three dimensions.
 
 **I start with an assumption of positive intent for all involved.** This has worked out well for me over my career. 
 
-**I view everyone as a peer.** To be honest, I'm really not comfortable being a position of authority. I do not care to be pandered to. Never feel the need to "sir" me--I've not been knighted...yet.
+**I view everyone as a peer.** To be honest, I'm really not comfortable being in a position of authority. I do not care to be pandered to. Never feel the need to "sir" me--I've not been knighted...yet.
 
 ## Personality quirks
 
