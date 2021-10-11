@@ -17,3 +17,5 @@ footer_content: "&copy; 2021 Matthew DiPietro."
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: false # show or hide edit this page link
+
+color_scheme: custom
