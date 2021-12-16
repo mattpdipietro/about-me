@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "About Matt DiPietro"
+permalink: /
+---
 # README
 {: .no_toc .fs-9 }
 
